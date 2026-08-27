@@ -1,4 +1,4 @@
-Here is a "simple" Color Picker Widget for QML. It is by far not finished but working as intended. There was no public one available so i made it. Feel free to use and modify it.
+Here is a "simple" Color Picker Widget for QML. It is by far not finished but working as intended. Feel free to use and modify it.
 
 It is wrapped in a popup but can be used elsewhere. The example has a Rectangle as a background with a gradient that can be changed by the colorPicker.
 ToDos are to wrap it in its own file and expose its signals.
